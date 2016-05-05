@@ -1,0 +1,6 @@
+framework module KVCustomSliderPod {
+  umbrella header "KVCustomSliderPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

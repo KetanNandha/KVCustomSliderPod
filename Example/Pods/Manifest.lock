@@ -1,0 +1,14 @@
+PODS:
+  - KVCustomSliderPod (0.1.0)
+
+DEPENDENCIES:
+  - KVCustomSliderPod (from `../`)
+
+EXTERNAL SOURCES:
+  KVCustomSliderPod:
+    :path: ../
+
+SPEC CHECKSUMS:
+  KVCustomSliderPod: 53df613d0c5723007533d864c3e9110e95bfbc70
+
+COCOAPODS: 0.39.0
