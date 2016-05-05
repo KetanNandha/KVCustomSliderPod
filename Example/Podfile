@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'KVCustomSliderPod_Example', :exclusive => true do
+  pod 'KVCustomSliderPod', :path => '../'
+end
+
+target 'KVCustomSliderPod_Tests', :exclusive => true do
+  pod 'KVCustomSliderPod', :path => '../'
+
+  
+end
